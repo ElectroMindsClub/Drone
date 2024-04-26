@@ -1,2 +1,2 @@
 # Drone
-WIP (work in progress)
+(work in progress)
